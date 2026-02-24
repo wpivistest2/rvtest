@@ -51,7 +51,7 @@
       "meta": {
         "difficulty": "hard"
       },
-      "description": "Question that asks users to count the number of bars that have a value greater than 1.",
+      "description": "Question that asks users to estimate the number of bars that have a value greater than 1.",
       "instruction": "How many bars have a value greater than 1?",
       "path": "demo-screen-recording/assets/bar-chart.html",
       "response": [
